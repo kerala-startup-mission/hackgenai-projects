@@ -1,27 +1,27 @@
-# <Project name>
+# Project name
 ## Basic Details
-### <Team Name>
+### Team Name
 
 
-### <Team Members>
+### Team Members
 
-### <Project Description>
+### Project Description
 
-### <The Problem statement>
+### The Problem statement
 
-### <The Solution>
+### The Solution
 
-## <Technical Details>
-### <Technologies/Components Used>
+## Technical Details
+### Technologies/Components Used
 
-### <Implementation>
+### Implementation
 
-# <Installation>
-# <Run>
-### <Project Documentation>
+# Installation
+# Run
+### Project Documentation
 
-# <Screenshots>
+# Screenshots
 
-### <Project Demo>
-# <Video>
+### Project Demo
+# Video
 
